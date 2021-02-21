@@ -22,7 +22,7 @@
             "name": "When i am in Sauce demo site",
             "result": {
               "status": "passed",
-              "duration": 365000000
+              "duration": 210000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "I logged in with \"standard_user\" and password \"secret_sauce\"",
             "result": {
               "status": "passed",
-              "duration": 1188000000
+              "duration": 1259000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "I logout",
             "result": {
               "status": "passed",
-              "duration": 616000000
+              "duration": 628000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "I should see the login page",
             "result": {
               "status": "passed",
-              "duration": 38000000
+              "duration": 32000000
             }
           }
         ]
@@ -97,7 +97,7 @@
             "name": "When i am in Sauce demo site",
             "result": {
               "status": "passed",
-              "duration": 342000000
+              "duration": 220000000
             }
           },
           {
@@ -107,7 +107,7 @@
             "name": "I logged in with \"standard_user\" and password \"secret_sauce\"",
             "result": {
               "status": "passed",
-              "duration": 1102000000
+              "duration": 1223000000
             }
           },
           {
@@ -117,7 +117,7 @@
             "name": "I should be landed in product page",
             "result": {
               "status": "passed",
-              "duration": 17000000
+              "duration": 20000000
             }
           },
           {
@@ -127,7 +127,7 @@
             "name": "when I add fleece jacket to the cart",
             "result": {
               "status": "passed",
-              "duration": 362000000
+              "duration": 294000000
             }
           },
           {
@@ -137,7 +137,7 @@
             "name": "I checkout the product",
             "result": {
               "status": "passed",
-              "duration": 302000000
+              "duration": 341000000
             }
           },
           {
@@ -147,7 +147,7 @@
             "name": "the cart price should be equal to product price",
             "result": {
               "status": "passed",
-              "duration": 12000000
+              "duration": 19000000
             }
           },
           {
@@ -157,7 +157,7 @@
             "name": "I submit personal information",
             "result": {
               "status": "passed",
-              "duration": 861000000
+              "duration": 1002000000
             }
           },
           {
@@ -167,7 +167,7 @@
             "name": "I confirmed the product",
             "result": {
               "status": "passed",
-              "duration": 140000000
+              "duration": 171000000
             }
           },
           {
@@ -177,7 +177,7 @@
             "name": "The the order should be confirmed",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 26000000
             }
           },
           {
@@ -187,7 +187,7 @@
             "name": "I logout from product confirm page",
             "result": {
               "status": "passed",
-              "duration": 503000000
+              "duration": 542000000
             }
           },
           {
@@ -197,7 +197,7 @@
             "name": "I should see the login page",
             "result": {
               "status": "passed",
-              "duration": 34000000
+              "duration": 38000000
             }
           }
         ]

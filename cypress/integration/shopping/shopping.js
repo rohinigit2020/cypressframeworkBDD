@@ -9,7 +9,7 @@ import ReviewPage from '../pom/pages/review.page'
 import ConfirmationPage from '../pom/pages/confirmation.page'
 
 
-
+/*
 Given("When i am in Sauce demo site",()=>{
     LoginPage.openUrl()
 })
@@ -19,7 +19,7 @@ When("I logged in with {string} and password {string}",(username,password)=>{
 Then("I should be landed in product page",()=>{
     ProductsPage.getUrl().should("contain","/inventory.html")
     
-})
+})*/
 When("when I add fleece jacket to the cart",()=>{
     ProductsPage.selectFleeceJacket()
     ProductPage.clickAddtoCart()
@@ -54,8 +54,8 @@ When("I logout from product confirm page",()=>{
     ConfirmationPage.logOut()
     
 })
-Then("I should see the login page",()=>{
+/* Then("I should see the login page",()=>{
     LoginPage.txtUsername.should('be.visible')
     
-})
+}) */
 
