@@ -1,0 +1,8 @@
+{
+    "baseUrl":"http://www.amazon.com",
+    "video": true,
+    "env":{
+        "host": "test.com",
+        "port": 8080
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://www.saucedemo.com",
+    "video": true,
+    "projectId": "mv7k79",
+    "testFiles": "**/*.feature"
+    
+}
