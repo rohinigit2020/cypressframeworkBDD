@@ -22,7 +22,7 @@
             "name": "When i am in Sauce demo site",
             "result": {
               "status": "passed",
-              "duration": 210000000
+              "duration": 459000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "I logged in with \"standard_user\" and password \"secret_sauce\"",
             "result": {
               "status": "passed",
-              "duration": 1259000000
+              "duration": 1185000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "I should be landed in product page",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 16000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "I logout",
             "result": {
               "status": "passed",
-              "duration": 628000000
+              "duration": 671000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "I should see the login page",
             "result": {
               "status": "passed",
-              "duration": 32000000
+              "duration": 72000000
             }
           }
         ]

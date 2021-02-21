@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "open": "./node_modules/.bin/cypress open",
+    "test": "./node_modules/.bin/cypress run --browser chrome",
+    "report":"node report.js",
     "run:dev": "./node_modules/.bin/cypress run --browser chrome --config-file cypress.dev.json",
     "run:test": "./node_modules/.bin/cypress run --browser chrome --config-file cypress.test.json",
     "cy:dashboard": "./node_modules/.bin/cypress run --browser chrome --record --key 981d3e89-9ac6-4c81-a733-344351211ec6"
