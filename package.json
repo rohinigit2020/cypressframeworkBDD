@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "open": "./node_modules/.bin/cypress open",
-    "test": "./node_modules/.bin/cypress run --browser chrome",
+    "test": "./node_modules/.bin/cypress run --browser chrome --headless",
     "report":"node report.js",
     "run:dev": "./node_modules/.bin/cypress run --browser chrome --config-file cypress.dev.json",
     "run:test": "./node_modules/.bin/cypress run --browser chrome --config-file cypress.test.json",

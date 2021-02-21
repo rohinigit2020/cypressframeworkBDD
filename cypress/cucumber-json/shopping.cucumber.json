@@ -10,7 +10,7 @@
       {
         "id": "shopping-cart-demo;end-to-end-journey",
         "keyword": "Scenario",
-        "line": 3,
+        "line": 18,
         "name": "End to end journey",
         "tags": [
           {
@@ -27,7 +27,7 @@
             "name": "When i am in Sauce demo site",
             "result": {
               "status": "passed",
-              "duration": 248000000
+              "duration": 236000000
             }
           },
           {
@@ -37,7 +37,7 @@
             "name": "I logged in with \"standard_user\" and password \"secret_sauce\"",
             "result": {
               "status": "passed",
-              "duration": 1191000000
+              "duration": 1154000000
             }
           },
           {
@@ -47,7 +47,7 @@
             "name": "I should be landed in product page",
             "result": {
               "status": "passed",
-              "duration": 18000000
+              "duration": 15000000
             }
           },
           {
@@ -57,7 +57,7 @@
             "name": "when I add fleece jacket to the cart",
             "result": {
               "status": "passed",
-              "duration": 365000000
+              "duration": 367000000
             }
           },
           {
@@ -67,7 +67,7 @@
             "name": "I checkout the product",
             "result": {
               "status": "passed",
-              "duration": 467000000
+              "duration": 545000000
             }
           },
           {
@@ -87,7 +87,7 @@
             "name": "I submit personal information",
             "result": {
               "status": "passed",
-              "duration": 969000000
+              "duration": 985000000
             }
           },
           {
@@ -97,7 +97,7 @@
             "name": "I confirmed the product",
             "result": {
               "status": "passed",
-              "duration": 333000000
+              "duration": 419000000
             }
           },
           {
@@ -107,7 +107,7 @@
             "name": "The the order should be confirmed",
             "result": {
               "status": "passed",
-              "duration": 22000000
+              "duration": 21000000
             }
           },
           {
@@ -117,7 +117,7 @@
             "name": "I logout from product confirm page",
             "result": {
               "status": "passed",
-              "duration": 521000000
+              "duration": 534000000
             }
           },
           {
@@ -127,7 +127,7 @@
             "name": "I should see the login page",
             "result": {
               "status": "passed",
-              "duration": 32000000
+              "duration": 40000000
             }
           }
         ]

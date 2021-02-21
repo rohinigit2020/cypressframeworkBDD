@@ -1,8 +1,8 @@
 Feature: Shopping cart demo
     @e2e
-    Scenario: End to end journey
+    Scenario Outline: End to end journey
         Given When i am in Sauce demo site
-        When I logged in with "standard_user" and password "secret_sauce"
+        When I logged in with "<uname>" and password "<pswd>"
         Then I should be landed in product page
         When when I add fleece jacket to the cart
         And I checkout the product
@@ -12,4 +12,8 @@ Feature: Shopping cart demo
         Then The the order should be confirmed
         When I logout from product confirm page
         Then I should see the login page
+
+Examples:
+    | uname | pswd | 
+    | standard_user | secret_sauce  |
       
